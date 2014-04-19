@@ -1,5 +1,5 @@
 // from https://github.com/geekuillaume/Node.js-Chat
-var appPort = 80;//;
+var appPort = 16558;
 
 // Librairies
 
